@@ -1,4 +1,4 @@
-# Client-Server_Dev
+# Animal-Shelter-Dashboard through client/server development
 
 Functionality
 This project uses MongoDB, a NoSQL database, to develop a Python application that utilizes CRUD (Create, Read, Update, Delete) operations. The primary function of this web app is for the international rescue-animal training company, Grazioso Salvare. It allows the user to filter the data based on the dogs that are most preferred for the type of rescue situation and populate that data in a table, map and pie chart.
